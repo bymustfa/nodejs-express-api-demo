@@ -1,0 +1,9 @@
+{
+  "env": {
+    "PORT" : 3001,
+    "MONGO_ATLAS_PW": "9mq1GChYrjgYIBFU",
+    "MONGO_ATLAS_US": "uzman-cok_37",
+    "MONGO_ATLAS_DB": "uzmanCokDB",
+    "JWT_KEY": "ss~L<_5&tB@@|]2H2p-P+c~Thw|7e2M?"
+  }
+}
